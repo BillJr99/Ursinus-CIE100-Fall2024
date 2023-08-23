@@ -172,7 +172,6 @@ schedule:
   - week: "0"
     date: "0"
     title: "Allegory of the Cave, Feminist Manifesto, the Matrix, and Katie Merz's Live the Questions (The Smokestack)"
-    link: "Activities/SummerReading"
     deliverables:
       - dtitle: "Participation: Ice Breaker Reflection Handed Out"
         dlink: "Participation/IceBreaker"
@@ -196,8 +195,10 @@ schedule:
         dlink: "Participation/IceBreaker"
         points: 10
     readings:
-      - rtitle: "Bear Tracks: Adding Content to your Bear Tracks Page"
-        rlink: "https://www.ursinus.edu/live/files/3499-how-to-add-content-to-bear-tracks-pages"
+      - rtitle: "Center for Writing and Speaking: Reading to Write"
+        rlink: "https://www.ursinus.edu/live/files/4030-reading-to-write-ppt-001"
+      - rtitle: "Center for Writing and Speaking: Reading to Write Worksheet"
+        rlink: "https://www.ursinus.edu/live/files/4031-reading-to-write-worksheet-002"
   - week: "1"
     date: "0"
     title: "Allegory of the Cave, Feminist Manifesto, the Matrix, and Katie Merz's Live the Questions (The Smokestack)"
@@ -212,13 +213,17 @@ schedule:
     date: "1"
     title: "Allegory of the Cave, Feminist Manifesto, the Matrix, and Katie Merz's Live the Questions (The Smokestack)"
     deliverables:
-      - dtitle: "Participation: Thesis Statement and Introduction for Essay 1 Due"
+      - dtitle: "Participation: Thesis Statement and Outline for Essay 1 Due"
         dlink: false
         points: 10
+    readings:
+      - rtitle: "Center for Writing and Speaking: Choosing and Formatting Quotations"
+        rlink: "https://www.ursinus.edu/live/files/4032-choosing-and-formatting-quotations-ppt-001"
+      - rtitle: "Center for Writing and Speaking: Introducing and Analyzing Quotations"
+        rlink: "https://www.ursinus.edu/live/files/4021-introducing-and-analyzing-quotations-ppt-002"
   - week: "2"
     date: "0"
     title: "Lysistrata"
-    link: "Activities/Lysistrata"
     readings:
       - rtitle: "Lysistrata"
         rlink: false
@@ -237,10 +242,11 @@ schedule:
   - week: "3"
     date: "0"
     title: "Sappho"
-    link: "Activities/Sappho"
     readings:
       - rtitle: "Sappho (poems 1-2; 4-5; 8-9; 12-15; 17; 20-21; 37-84; 87-88; 97-100)"
         rlink: false
+      - rtitle: "Center for Writing and Speaking: Using Sources Peer Review Exercise"
+        rlink: "https://www.ursinus.edu/live/files/4027-peer-review-sheet-spotlight-on-using-sources-008"
   - week: "3"
     date: "1"
     title: "Sappho"
@@ -251,7 +257,6 @@ schedule:
   - week: "4"
     date: "0"
     title: "Euthyphro"
-    link: "Activities/Euthyphro"
     readings:
       - rtitle: "Euthyphro"
         rlink: false
@@ -266,7 +271,6 @@ schedule:
   - week: "5"
     date: "0"
     title: "Genesis"
-    link: "Activities/Genesis"
     readings:
       - rtitle: "Genesis chapters 1-22"
         rlink: false
@@ -284,20 +288,30 @@ schedule:
         dlink: "Assignments/Essay2"
         points: 100
         rubricpath: "_pages/Assignments/asmt-essay2.md"
+    readings:
+      - rtitle: "Center for Writing and Speaking: Thesis Statements - What They Are and What to Avoid"
+        rlink: "https://www.ursinus.edu/live/files/4598-thesis-statements-and-what-to-avoid-revision"
+      - rtitle: "Center for Writing and Speaking: Generating a Thesis Statement Exercise"
+        rlink: "https://www.ursinus.edu/live/files/4597-generating-a-thesis-statement-worksheet"
   - week: "6"
     date: "0"
     title: "Confucius: Analects"
-    link: "Activities/Confucius"
     readings:
       - rtitle: "Analects of Confucius"
         rlink: false
   - week: "6"
     date: "1"
     title: "Confucius: Analects"
+    deliverables:
+      - dtitle: "Participation: Thesis Statement and Outline for Essay 2 Due"
+        dlink: false
+        points:
+    readings:
+      - rtitle: "Center for Writing and Speaking: Strategies and Templates for Building a Strong Thesis Statement"
+        rlink: "https://www.ursinus.edu/live/files/4036-strategies-and-templates-for-building-a-strong"
   - week: "7"
     date: "1"
     title: "Matthew 5-7 and Luke 10"
-    link: "Activities/Biblical"
     deliverables:
       - dtitle: "Writing: First Draft of Essay 2"
         dlink: "Assignments/Essay2"
@@ -312,6 +326,8 @@ schedule:
         rlink: false
       - rtitle: "Luke 10 (The Good Samaritan)"
         rlink: false
+      - rtitle: "Center for Writing and Speaking: Thesis Statement Review and Self-Evaluation"
+        rlink: "https://www.ursinus.edu/live/files/4599-thesis-statement-self-evaluation-reviseddocx"
   - week: "8"
     date: "0"
     title: "Matthew 5-7 and Luke 10"
@@ -321,11 +337,6 @@ schedule:
   - week: "8"
     date: "1"
     title: "Darwin and Roughgarden"
-    link: "Activities/Darwin"
-    deliverables:
-      - dtitle: "Participation: Thesis Statement and Introduction for Essay 2 Due"
-        dlink: false
-        points: 10
     readings:
       - rtitle: "On the Origin of Species"
         rlink: false
@@ -335,7 +346,6 @@ schedule:
   - week: "9"
     date: "1"
     title: "Darwin and Roughgarden"
-    link: "Activities/EvolutionsRainbow"
     deliverables:
       - dtitle: "Participation: Writing Fellow Meeting Reflection 2 Due"
         dlink: "Participation/WritingFellowReflection"
@@ -354,7 +364,6 @@ schedule:
   - week: "10"
     date: "1"
     title: "God is Red"
-    link: "Activities/GodIsRed"
     deliverables:
       - dtitle: "Writing: Essay 2 Due"
         dlink: "Assignments/Essay2"
@@ -377,10 +386,13 @@ schedule:
     readings:
       - rtitle: "Common Event: Presepolis (11/15)"
         rlink: false
+      - rtitle: "Center for Writing and Speaking: Revising for Better Organization"
+        rlink: "https://www.ursinus.edu/live/files/4039-revising-for-better-organization-ppt-007"
+      - rtitle: "Center for Writing and Speaking: Organization Revision Exercise"
+        rlink: "https://www.ursinus.edu/live/files/4040-revising-for-organization-worksheet-008"
   - week: "12"
     date: "0"
     title: "Between the World and Me"
-    link: "Activities/Coates"
   - week: "13"
     date: "0"
     title: "Between the World and Me"
@@ -401,7 +413,6 @@ schedule:
   - week: "14"
     date: "0"
     title: "Select Your Quest: Coded Bias"
-    link: "Activities/CodedBias"
     deliverables:
       - dtitle: "Writing: First Draft of Essay 3"
         dlink: "Assignments/Essay3"
