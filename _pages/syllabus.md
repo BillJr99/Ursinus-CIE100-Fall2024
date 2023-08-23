@@ -199,7 +199,7 @@ schedule:
     date: "0"
     title: "Allegory of the Cave, Feminist Manifesto, the Matrix, and Katie Merz's Live the Questions (The Smokestack)"
     readings:
-      - rtitle: "Common Event: Community Drawing Project"
+      - rtitle: "Common Event: Community Drawing Project (9/6)"
         rlink: false
   - week: "1"
     date: "1"
@@ -372,9 +372,6 @@ schedule:
         dlink: "Assignments/Essay3"
         points: 30
         rubricpath: "_pages/Assignments/asmt-essay3.md"
-      - dtitle: "Participation: Coded Bias Reflection Handed Out"
-        dlink: "Participation/CodedBias"
-        points: 10
     readings:
       - rtitle: "In His Own Words: Ta-Nehisi Coates (supplemental recording)"
         rlink: false
@@ -387,15 +384,12 @@ schedule:
         dlink: "Assignments/Essay3"
         points: 70
         rubricpath: "_pages/Assignments/asmt-essay3.md"
-      - dtitle: "Participation: Coded Bias Reflection Due"
-        dlink: "Participation/CodedBias"
-        points: 10
     readings:
       - rtitle: "Coded Bias"
         rlink: false
       - rtitle: "Are We Automating Racism?"
-        rlink: "https://www.youtube.com/watch?v=Ok5sKLXqynQ&list=PLJ8cMiYb3G5cOFj1VQf8ykNOI0ptuHybc&index=4"  
-  
+        rlink: "https://www.youtube.com/watch?v=Ok5sKLXqynQ&list=PLJ8cMiYb3G5cOFj1VQf8ykNOI0ptuHybc&index=4"
+
 university:
   semester: "Fall"
   academicyear: "2023-24"
