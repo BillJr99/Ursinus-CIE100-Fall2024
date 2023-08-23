@@ -75,7 +75,7 @@ DTSTAMP:20230829T000000Z
 DTSTART;VALUE=DATE:20230829
 SUMMARY:CIE100 Common Intellectual Experience: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CIE100-Fall2023/Activities/SummerReading\nReading: Common Event: The Matrix (8/25)\nReading: Allegory of the Cave\nReading: Feminist Manifesto\nDeliverable: Participation: Ice Breaker Reflection Handed Out https://www.billmongan.com/Ursinus-CIE100-Fall2023/Participation/IceBreaker
+DESCRIPTION:\nReading: Common Event: The Matrix (8/25)\nReading: Allegory of the Cave\nReading: Feminist Manifesto\nDeliverable: Participation: Ice Breaker Reflection Handed Out https://www.billmongan.com/Ursinus-CIE100-Fall2023/Participation/IceBreaker
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -102,7 +102,7 @@ DTSTAMP:20230831T000000Z
 DTSTART;VALUE=DATE:20230831
 SUMMARY:CIE100 Common Intellectual Experience: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Bear Tracks: Adding Content to your Bear Tracks Page https://www.ursinus.edu/live/files/3499-how-to-add-content-to-bear-tracks-pages\nDeliverable: Writing: Essay 1 Handed Out https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay1\nDeliverable: Participation: Ice Breaker Reflection Due https://www.billmongan.com/Ursinus-CIE100-Fall2023/Participation/IceBreaker
+DESCRIPTION:\nReading: Center for Writing and Speaking: Reading to Write https://www.ursinus.edu/live/files/4030-reading-to-write-ppt-001\nReading: Center for Writing and Speaking: Reading to Write Worksheet https://www.ursinus.edu/live/files/4031-reading-to-write-worksheet-002\nDeliverable: Writing: Essay 1 Handed Out https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay1\nDeliverable: Participation: Ice Breaker Reflection Due https://www.billmongan.com/Ursinus-CIE100-Fall2023/Participation/IceBreaker
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51009
 DTSTAMP:20230907T000000Z
 DTSTART;VALUE=DATE:20230907
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Thesis Statement and Introduction for Essay 1 Due
+SUMMARY:CIE100 Common Intellectual Experience: Participation: Thesis Statement and Outline for Essay 1 Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -138,7 +138,7 @@ DTSTAMP:20230907T000000Z
 DTSTART;VALUE=DATE:20230907
 SUMMARY:CIE100 Common Intellectual Experience: Class Meeting
 LOCATION:
-DESCRIPTION:\nDeliverable: Participation: Thesis Statement and Introduction for Essay 1 Due
+DESCRIPTION:\nReading: Center for Writing and Speaking: Choosing and Formatting Quotations https://www.ursinus.edu/live/files/4032-choosing-and-formatting-quotations-ppt-001\nReading: Center for Writing and Speaking: Introducing and Analyzing Quotations https://www.ursinus.edu/live/files/4021-introducing-and-analyzing-quotations-ppt-002\nDeliverable: Participation: Thesis Statement and Outline for Essay 1 Due
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -147,7 +147,7 @@ DTSTAMP:20230912T000000Z
 DTSTART;VALUE=DATE:20230912
 SUMMARY:CIE100 Common Intellectual Experience: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CIE100-Fall2023/Activities/Lysistrata\nReading: Lysistrata
+DESCRIPTION:\nReading: Lysistrata
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -183,7 +183,7 @@ DTSTAMP:20230919T000000Z
 DTSTART;VALUE=DATE:20230919
 SUMMARY:CIE100 Common Intellectual Experience: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CIE100-Fall2023/Activities/Sappho\nReading: Sappho (poems 1-2; 4-5; 8-9; 12-15; 17; 20-21; 37-84; 87-88; 97-100)
+DESCRIPTION:\nReading: Sappho (poems 1-2; 4-5; 8-9; 12-15; 17; 20-21; 37-84; 87-88; 97-100)\nReading: Center for Writing and Speaking: Using Sources Peer Review Exercise https://www.ursinus.edu/live/files/4027-peer-review-sheet-spotlight-on-using-sources-008
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -210,7 +210,7 @@ DTSTAMP:20230926T000000Z
 DTSTART;VALUE=DATE:20230926
 SUMMARY:CIE100 Common Intellectual Experience: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CIE100-Fall2023/Activities/Euthyphro\nReading: Euthyphro
+DESCRIPTION:\nReading: Euthyphro
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -237,7 +237,7 @@ DTSTAMP:20231003T000000Z
 DTSTART;VALUE=DATE:20231003
 SUMMARY:CIE100 Common Intellectual Experience: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CIE100-Fall2023/Activities/Genesis\nReading: Genesis chapters 1-22\nReading: Discussion with Robert Alter (supplemental recording)
+DESCRIPTION:\nReading: Genesis chapters 1-22\nReading: Discussion with Robert Alter (supplemental recording)
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -264,7 +264,7 @@ DTSTAMP:20231005T000000Z
 DTSTART;VALUE=DATE:20231005
 SUMMARY:CIE100 Common Intellectual Experience: Class Meeting
 LOCATION:
-DESCRIPTION:\nDeliverable: Writing: Essay 1 Due https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay1\nDeliverable: Writing: Essay 2 Handed Out https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay2
+DESCRIPTION:\nReading: Center for Writing and Speaking: Thesis Statements - What They Are and What to Avoid https://www.ursinus.edu/live/files/4598-thesis-statements-and-what-to-avoid-revision\nReading: Center for Writing and Speaking: Generating a Thesis Statement Exercise https://www.ursinus.edu/live/files/4597-generating-a-thesis-statement-worksheet\nDeliverable: Writing: Essay 1 Due https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay1\nDeliverable: Writing: Essay 2 Handed Out https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay2
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -273,20 +273,29 @@ DTSTAMP:20231010T000000Z
 DTSTART;VALUE=DATE:20231010
 SUMMARY:CIE100 Common Intellectual Experience: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CIE100-Fall2023/Activities/Confucius\nReading: Analects of Confucius
+DESCRIPTION:\nReading: Analects of Confucius
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a5101a
 DTSTAMP:20231012T000000Z
 DTSTART;VALUE=DATE:20231012
-SUMMARY:CIE100 Common Intellectual Experience: Class Meeting
+SUMMARY:CIE100 Common Intellectual Experience: Participation: Thesis Statement and Outline for Essay 2 Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a5101b
+DTSTAMP:20231012T000000Z
+DTSTART;VALUE=DATE:20231012
+SUMMARY:CIE100 Common Intellectual Experience: Class Meeting
+LOCATION:
+DESCRIPTION:\nReading: Center for Writing and Speaking: Strategies and Templates for Building a Strong Thesis Statement https://www.ursinus.edu/live/files/4036-strategies-and-templates-for-building-a-strong\nDeliverable: Participation: Thesis Statement and Outline for Essay 2 Due
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:00000000-0000-0000-0000-00e8d4a5101c
 DTSTAMP:20231019T000000Z
 DTSTART;VALUE=DATE:20231019
 SUMMARY:CIE100 Common Intellectual Experience: Writing: First Draft of Essay 2
@@ -295,7 +304,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-00e8d4a5101c
+UID:00000000-0000-0000-0000-00e8d4a5101d
 DTSTAMP:20231019T000000Z
 DTSTART;VALUE=DATE:20231019
 SUMMARY:CIE100 Common Intellectual Experience: Participation: Writing Fellow Meeting Reflection 2 Handed Out
@@ -304,16 +313,16 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-00e8d4a5101d
+UID:00000000-0000-0000-0000-00e8d4a5101e
 DTSTAMP:20231019T000000Z
 DTSTART;VALUE=DATE:20231019
 SUMMARY:CIE100 Common Intellectual Experience: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CIE100-Fall2023/Activities/Biblical\nReading: Matthew 5-7 (Sermon on the Mount)\nReading: Luke 10 (The Good Samaritan)\nDeliverable: Writing: First Draft of Essay 2 https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay2\nDeliverable: Participation: Writing Fellow Meeting Reflection 2 Handed Out https://www.billmongan.com/Ursinus-CIE100-Fall2023/Participation/WritingFellowReflection
+DESCRIPTION:\nReading: Matthew 5-7 (Sermon on the Mount)\nReading: Luke 10 (The Good Samaritan)\nReading: Center for Writing and Speaking: Thesis Statement Review and Self-Evaluation https://www.ursinus.edu/live/files/4599-thesis-statement-self-evaluation-reviseddocx\nDeliverable: Writing: First Draft of Essay 2 https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay2\nDeliverable: Participation: Writing Fellow Meeting Reflection 2 Handed Out https://www.billmongan.com/Ursinus-CIE100-Fall2023/Participation/WritingFellowReflection
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-00e8d4a5101e
+UID:00000000-0000-0000-0000-00e8d4a5101f
 DTSTAMP:20231024T000000Z
 DTSTART;VALUE=DATE:20231024
 SUMMARY:CIE100 Common Intellectual Experience: Class Meeting
@@ -322,21 +331,12 @@ DESCRIPTION:\nReading: Get Over Yourself - Self-Transcendence in the Book of Gen
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-00e8d4a5101f
-DTSTAMP:20231026T000000Z
-DTSTART;VALUE=DATE:20231026
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Thesis Statement and Introduction for Essay 2 Due
-LOCATION:
-DESCRIPTION:
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51020
 DTSTAMP:20231026T000000Z
 DTSTART;VALUE=DATE:20231026
 SUMMARY:CIE100 Common Intellectual Experience: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CIE100-Fall2023/Activities/Darwin\nReading: On the Origin of Species\nDeliverable: Participation: Thesis Statement and Introduction for Essay 2 Due
+DESCRIPTION:\nReading: On the Origin of Species
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -363,7 +363,7 @@ DTSTAMP:20231102T000000Z
 DTSTART;VALUE=DATE:20231102
 SUMMARY:CIE100 Common Intellectual Experience: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CIE100-Fall2023/Activities/EvolutionsRainbow\nReading: Evolution's Rainbow\nDeliverable: Participation: Writing Fellow Meeting Reflection 2 Due https://www.billmongan.com/Ursinus-CIE100-Fall2023/Participation/WritingFellowReflection
+DESCRIPTION:\nReading: Evolution's Rainbow\nDeliverable: Participation: Writing Fellow Meeting Reflection 2 Due https://www.billmongan.com/Ursinus-CIE100-Fall2023/Participation/WritingFellowReflection
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -408,7 +408,7 @@ DTSTAMP:20231109T000000Z
 DTSTART;VALUE=DATE:20231109
 SUMMARY:CIE100 Common Intellectual Experience: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CIE100-Fall2023/Activities/GodIsRed\nReading: God is Red\nDeliverable: Writing: Essay 2 Due https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay2\nDeliverable: Writing: Essay 3 Handed Out https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay3
+DESCRIPTION:\nReading: God is Red\nDeliverable: Writing: Essay 2 Due https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay2\nDeliverable: Writing: Essay 3 Handed Out https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay3
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -426,7 +426,7 @@ DTSTAMP:20231114T000000Z
 DTSTART;VALUE=DATE:20231114
 SUMMARY:CIE100 Common Intellectual Experience: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Common Event: Presepolis (11/15)\nDeliverable: Participation: Coded Bias Reflection Handed Out https://www.billmongan.com/Ursinus-CIE100-Fall2023/Participation/CodedBias
+DESCRIPTION:\nReading: Common Event: Presepolis (11/15)\nReading: Center for Writing and Speaking: Revising for Better Organization https://www.ursinus.edu/live/files/4039-revising-for-better-organization-ppt-007\nReading: Center for Writing and Speaking: Organization Revision Exercise https://www.ursinus.edu/live/files/4040-revising-for-organization-worksheet-008\nDeliverable: Participation: Coded Bias Reflection Handed Out https://www.billmongan.com/Ursinus-CIE100-Fall2023/Participation/CodedBias
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -435,7 +435,7 @@ DTSTAMP:20231121T000000Z
 DTSTART;VALUE=DATE:20231121
 SUMMARY:CIE100 Common Intellectual Experience: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CIE100-Fall2023/Activities/Coates
+DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -489,7 +489,7 @@ DTSTAMP:20231205T000000Z
 DTSTART;VALUE=DATE:20231205
 SUMMARY:CIE100 Common Intellectual Experience: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CIE100-Fall2023/Activities/CodedBias\nReading: Coded Bias\nReading: Are We Automating Racism? https://www.youtube.com/watch?v=Ok5sKLXqynQ&list=PLJ8cMiYb3G5cOFj1VQf8ykNOI0ptuHybc&index=4\nDeliverable: Writing: First Draft of Essay 3 https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay3
+DESCRIPTION:\nReading: Coded Bias\nReading: Are We Automating Racism? https://www.youtube.com/watch?v=Ok5sKLXqynQ&list=PLJ8cMiYb3G5cOFj1VQf8ykNOI0ptuHybc&index=4\nDeliverable: Writing: First Draft of Essay 3 https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay3
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
