@@ -372,21 +372,21 @@ schedule:
       - dtitle: "Participation: Coded Bias Reflection Due"
         dlink: "Participation/CodedBias"
         points: 10
+    readings:
+      - rtitle: "In His Own Words: Ta-Nehisi Coates (supplemental recording)"
+        rlink: false        
   - week: "14"
     date: "0"
-    title: "Between the World and Me"
+    title: "Select Your Quest: Coded Bias"
+    link: "Activities/CodedBias"    
     deliverables:
       - dtitle: "Paper: First Draft of Essay 3"
         dlink: "Assignments/Essay3"
         points: 30
         rubricpath: "_pages/Assignments/asmt-essay3.md"
-    readings:
-      - rtitle: "In His Own Words: Ta-Nehisi Coates (supplemental recording)"
-        rlink: false
   - week: "14"
     date: "1"
     title: "Select Your Quest: Coded Bias"
-    link: "Activities/CodedBias"
     deliverables:
       - dtitle: "Paper: Essay 3"
         dlink: "Assignments/Essay3"
