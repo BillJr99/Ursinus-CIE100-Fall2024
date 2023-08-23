@@ -354,6 +354,10 @@ schedule:
   - week: "11"
     date: "0"
     title: "God is Red"
+    deliverables:
+      - dtitle: "Participation: Coded Bias Reflection Handed Out"
+        dlink: "Participation/CodedBias"
+        points: 10
   - week: "12"
     date: "0"
     title: "Between the World and Me"
@@ -364,6 +368,10 @@ schedule:
   - week: "13"
     date: "1"
     title: "Between the World and Me"
+    deliverables:
+      - dtitle: "Participation: Coded Bias Reflection Due"
+        dlink: "Participation/CodedBias"
+        points: 10
   - week: "14"
     date: "0"
     title: "Between the World and Me"
