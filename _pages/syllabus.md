@@ -631,36 +631,12 @@ can also review accessibility and disabilities services online at
 bookstore. Those marked with an \* can be found in the CIE 100 Course
 Reader, which should be purchased at the campus bookstore.*
 
-The college recognizes that temporary financial hardships can impact
-students\' access to course materials, as well as their access to
-opportunities on campus. Please contact the CIE Chair, [Diane
-Skorina](https://www.ursinus.edu/live/profiles/382-diane-skorina), if
-you need assistance.
-
-### **Writing Fellow**
-Our class will work with a Writing Fellow.  Writing Fellows are highly qualified 
-undergraduates trained in how to teach and tutor writing.  You will meet with your
-writing fellow twice during the semester.  The writing fellow will read and consult 
-with you on two of your essays.  You will reflect on these meetings in formal 
-follow-up assignments.  In addition, you will have time to (and be expected to) revise your essay
-drafts in light of the feedback you receive from both your writing fellow and from the instructor.
-
-### **Attendance and Class Engagement**
-A significant component of this class is the reflective discussions that we
-will have as a group, to share our diverse perspectives on the readings with which
-we engage throughout the semester.  As such it is imperative that you both **attend**
-and **thoughtfully engage with** these discussions and class activities.  You may 
-miss up to three classes during the semester; you do not need prior permission or any stated reason for doing so.
-Subsequent absences will result in a grade reduction of 30% (per the class participation grade component).
-
 ### **Summer readings** 
 
 -   Adichie, Chimamanda Ngozi. *Dear Ijeawele, or A Feminist Manifesto
     in Fifteen Suggestions*. New York: Anchor Books, 2017.
 -   \*Plato. "Allegory of the Cave." *The Republic of Plato.* Allan
-    Bloom, translator. New York:
-
-Basic Books, 1968. (from Book VII. 514a-521d).
+    Bloom, translator. New York: Basic Books, 1968. (from Book VII. 514a-521d).
 
 ### **Semester reading list** 
 
@@ -691,6 +667,30 @@ Basic Books, 1968. (from Book VII. 514a-521d).
 -   Films: *Persepolis*. Dirs. Marjane Satrapi and Vincent Paronnoud.
     Sony Classics Pictures, 2007. Film; and *The Matrix*. Dirs. The
     Wachowskis. Warner Brothers. 1999. Film
+
+The college recognizes that temporary financial hardships can impact
+students\' access to course materials, as well as their access to
+opportunities on campus. Please contact the CIE Chair, [Diane
+Skorina](https://www.ursinus.edu/live/profiles/382-diane-skorina), if
+you need assistance.
+
+### **Writing Fellow**
+Our class is most fortunate to have the opportunity to work with a Writing Fellow.  
+Writing Fellows are highly qualified 
+undergraduates trained in how to teach and tutor writing.  You will meet with your
+writing fellow twice during the semester.  The writing fellow will read and consult 
+with you on two of your essays.  You will reflect on these meetings in formal 
+follow-up assignments.  
+In addition, you will have time to (and be expected to) revise your essay
+drafts in light of the feedback you receive from both your writing fellow and from the instructor.
+
+### **Attendance and Class Engagement**
+A significant component of this class is the reflective discussions that we
+will have as a group, to share our diverse perspectives on the readings with which
+we engage throughout the semester.  As such it is imperative that you both **attend**
+and **thoughtfully engage with** these discussions and class activities.  You may 
+miss up to three classes during the semester; you do not need prior permission or any stated reason for doing so.
+Subsequent absences will result in a grade reduction of 30% (per the class participation grade component).
 
 ### **Assessment** 
 
