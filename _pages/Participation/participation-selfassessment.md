@@ -34,7 +34,22 @@ Specifically, consider not only passive participation but your **thoughtful enga
 * Leading or presenting small group conversations and activities
 * Raising points directly from our course texts
 * Building upon points raised by others, and directing your perspectives to the class as a whole
+* Listening Actively
+* Actively participating while avoiding dominating the conversation
+* Making connections between readings
+* Attending class with the books in hand (and having read them)
+* Encouraging others to engage in class discussions
 
 The grade you assign should be based on your ability to speak to the considerations above and in your pre-assessment.  The grade you assign will be the grade recorded for these activities unless there is a significant disparity between the assessment and your observed classroom performance.  To do this honestly, and not overly harshly, consider your evaluation from a third-person perspective: how might you evaluate yourself if you observed your activities and behaviors from another's perspective?  Have you contributed to the class in ways that has enhanced someone else's learning experience?  Have you engaged with others in ways that has enhanced your own learning experience?
+
+Consider the following ratings to grade yourself on each of these criteria:
+
+**A Level Participation:**  Brings books every day; speaks every day and often more than once; never behind on readings – always prepared to discuss.  Makes class discussions more collaborative and constructive.  Speaks often but does not dominate the discussion.  Encourages others to participate by posing interesting questions and by identifying key areas of agreement/variation; listens carefully and uses what’s said by others as part of one’s own contribution.  In short, ready, vocal, and collaborative virtually every day. Never misses class.
+
+**C Level Participation:**  May speak often enough but only rarely encourages the collaboration and participation of others. Has missed an occasional class (perhaps one in two or three weeks); speaks sometimes but not every day (generally once per class); may speak up more than once one day then stay silent for a couple of days; usually, but not always, current with the readings; participates regularly when the group leads.  
+
+**F Level Participation:** Makes little effort to contribute to or establish a sense of shared interest. Misses one or more classes per week; speaks rarely (once a week or less); current with the readings only half the time; participates irregularly when the group leads.  
+
+In which areas do you consider your performance to be the strongest?  In which do you think you have the most room to improve?  Provide an honest assessment that reflects on specific examples.
 
 [^1]: This evaluation is adapted heavily from materials provided courtesy of Dr. Abby Kluchin
