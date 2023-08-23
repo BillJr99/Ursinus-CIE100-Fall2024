@@ -459,7 +459,7 @@ university:
 
 ## The Common Intellectual Experience (CIE 100) \[[^1]\]
 
-The Common Intellectual Experience is a two-semester course for all
+The [Common Intellectual Experience](https://www.ursinus.edu/academics/common-intellectual-experience/) is a two-semester course for all
 first year students that brings academic inquiry to bear on the central
 questions of a liberal education: What should matter to me? How should
 we live together? How can we understand the world? What will I do?
