@@ -417,7 +417,7 @@ DTSTAMP:20231130T000000Z
 DTSTART;VALUE=DATE:20231130
 SUMMARY:CIE100 Common Intellectual Experience: Class Meeting
 LOCATION:
-DESCRIPTION:\nDeliverable: Participation: Coded Bias Reflection Due https://www.billmongan.com/Ursinus-CIE100-Fall2023/Participation/CodedBias
+DESCRIPTION:\nReading: In His Own Words: Ta-Nehisi Coates (supplemental recording)\nDeliverable: Participation: Coded Bias Reflection Due https://www.billmongan.com/Ursinus-CIE100-Fall2023/Participation/CodedBias
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -435,7 +435,7 @@ DTSTAMP:20231205T000000Z
 DTSTART;VALUE=DATE:20231205
 SUMMARY:CIE100 Common Intellectual Experience: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: In His Own Words: Ta-Nehisi Coates (supplemental recording)\nDeliverable: Paper: First Draft of Essay 3 https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay3
+DESCRIPTION:https://www.billmongan.com/Ursinus-CIE100-Fall2023/Activities/CodedBias\nDeliverable: Paper: First Draft of Essay 3 https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay3
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -453,7 +453,7 @@ DTSTAMP:20231207T000000Z
 DTSTART;VALUE=DATE:20231207
 SUMMARY:CIE100 Common Intellectual Experience: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CIE100-Fall2023/Activities/CodedBias\nReading: Coded Bias\nReading: Are We Automating Racism? https://www.youtube.com/watch?v=Ok5sKLXqynQ&list=PLJ8cMiYb3G5cOFj1VQf8ykNOI0ptuHybc&index=4\nDeliverable: Paper: Essay 3 https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay3
+DESCRIPTION:\nReading: Coded Bias\nReading: Are We Automating Racism? https://www.youtube.com/watch?v=Ok5sKLXqynQ&list=PLJ8cMiYb3G5cOFj1VQf8ykNOI0ptuHybc&index=4\nDeliverable: Paper: Essay 3 https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay3
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
