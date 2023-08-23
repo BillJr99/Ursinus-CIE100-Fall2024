@@ -579,13 +579,10 @@ can also review accessibility and disabilities services online at
 
 1.  Students will develop habits of self-reflection about what matters
     to them. *They will demonstrate this by*:
-
     -   articulating their own stances and values on issues related to
         course discussion;
-
     -   expressing willingness to question their own assumptions and
         take intellectual risks; and
-
     -   exhibiting curiosity about the reasons behind, consequences of,
         and connections between their own ideas, values, and life
         experiences.
@@ -595,7 +592,6 @@ can also review accessibility and disabilities services online at
 
     -   expressing appreciation for and engagement with multiple
         perspectives on any given problem, question, or topic; and
-
     -   showing openness to discussion of complex and/or sensitive
         topics in a setting where disagreement is likely.
 
@@ -604,7 +600,6 @@ can also review accessibility and disabilities services online at
     demonstrate this by:*
 
     -   asking questions of texts and
-
     -   actively engaging with authors\' ideas, language, and arguments.
 
 4.  Students will become more skilled participants in group discussions.
@@ -613,12 +608,9 @@ can also review accessibility and disabilities services online at
     -   participating actively in discussions that touch on sensitive
         questions or questions of basic values and submitting their
         views to the scrutiny of their peers;
-
     -   clearly presenting their own ideas and arguments;
-
     -   listening thoughtfully and respectfully to the ideas of others;
         and
-
     -   considering, questioning, and responding creatively to the
         themes and topics of class discussion.
 
@@ -627,16 +619,12 @@ can also review accessibility and disabilities services online at
 
     -   constructing clear, articulate, and compelling arguments and
         ideas;
-
     -   developing a creative and original voice in writing;
-
     -   showing an understanding of the texts through thoughtful
         analysis and effective use of the readings to support their
         arguments and ideas;
-
     -   exploring the Core Curriculum questions in creative and
         meaningful ways; and
-
     -   taking part in a substantive drafting and revision process.
 
 *The following texts are required and should be purchased at the campus
@@ -669,7 +657,6 @@ Subsequent absences will result in a grade reduction of 30% (per the class parti
 
 -   Adichie, Chimamanda Ngozi. *Dear Ijeawele, or A Feminist Manifesto
     in Fifteen Suggestions*. New York: Anchor Books, 2017.
-
 -   \*Plato. "Allegory of the Cave." *The Republic of Plato.* Allan
     Bloom, translator. New York:
 
@@ -680,39 +667,27 @@ Basic Books, 1968. (from Book VII. 514a-521d).
 -   \**Analects of Confucius*. *Readings in Classical Chinese
     Philosophy*. 2^nd^ ed. Philip J. Ivanhoe and Bryan Van Norden,
     editors. Indianapolis: Hackett, 2001.
-
 -   \* Aristophanes. *Lysistrata*. Ian Johnston, translator. Open
     Source, 2020.
-
 -   Coates, T. *Between the World and Me*. New York: Spiegel & Grau,
     2015.
-
 -   \*Darwin, Charles, *On the Origin of Species*.
-
 -   \*Deloria, Jr., Vine. *God Is Red*. Golden, CO: Fulcrum Publishing,
     2003.
-
 -   Genesis. Robert Alter, translator. New York: Norton, 1996.
-
 -   \*"Euthyphro." Plato and Aristophanes. *Four Texts on Socrates*.
     Thomas G. West and Grace Starry West, translators. Ithaca: Cornell
     University Press, 1984.
-
 -   \*Luke 10 (KJV)
-
 -   \*Matthew 5-7 (KJV)
-
 -   Sappho. *Sappho: A New Translation*. Mary Barnard, translator.
     Berkeley: University of California Press, 1958.
-
 -   \*Roughgarden, Joan. *Evolution's Rainbow*. Berkeley, CA: University
     of California Press, 2003. California Press, 1999.
-
 -   *Select your Quest* faculty will provide the texts they would like
     to incorporate into their class discussion. We recommend that any
     readings be provided in PDF format, instead of assigning and
     additional purchase through the bookstore.
-
 -   Films: *Persepolis*. Dirs. Marjane Satrapi and Vincent Paronnoud.
     Sony Classics Pictures, 2007. Film; and *The Matrix*. Dirs. The
     Wachowskis. Warner Brothers. 1999. Film
@@ -721,85 +696,76 @@ Basic Books, 1968. (from Book VII. 514a-521d).
 
 #### Writing (60%) 
 
-Paper 1 -- 20% (1200 -- 1500 words)  
-
-Paper 2 -- 20% (1200 -- 1500 words)  
-
-Paper 3 -- 20% (1500 -- 1800 words)
+* Paper 1 -- 20% (1200 -- 1500 words)  
+* Paper 2 -- 20% (1200 -- 1500 words)  
+* Paper 3 -- 20% (1500 -- 1800 words)
 
 #### Participation (40%)
 
-In-class participation -- 30%  
-
-Informal writing (pre-class/in-class) -- 10%
+* In-class participation -- 30%  
+* Informal writing (pre-class/in-class) -- 10%
 
 ### **Weekly Reading and Paper Assignment Schedule**
 
-Friday, August 25---Friday, Sept 08.: "Allegory of the Cave," Adichie,
+* Friday, August 25---Friday, Sept 08.: "Allegory of the Cave," Adichie,
 *Feminist Manifesto*, *The Matrix* and Katie Merz's *Live the Questions*
 (informally known as "The Smokestack")
 
-**Common Event: *The Matrix* on Fri., Aug 25**
+> **Common Event: *The Matrix* on Fri., Aug 25**
+> **Common Event: Community Drawing Project on Weds., Sep. 6**
 
-**Common Event: Community Drawing Project on Weds., Sep. 6**
+* Monday, Sept. 11---Friday, Sept. 15: Aristophanes, *Lysistrata*
 
-Monday, Sept. 11---Friday, Sept. 15: Aristophanes, *Lysistrata*
+> **09/14-18---First Draft of Essay #1**
 
-**09/14-18---First Draft of Essay #1**
-
-Monday, Sept.18---Friday, Sept. 22: Sappho (poems 1--2, 4--5, 8--9,
+* Monday, Sept.18---Friday, Sept. 22: Sappho (poems 1--2, 4--5, 8--9,
 12--15, 17, 20--21, 37--84, 87--88, 97--100)
 
-Monday, Sept. 25---Friday, Sep. 29: Plato, *Euthyphro*
+* Monday, Sept. 25---Friday, Sep. 29: Plato, *Euthyphro*
 
-Monday, Oct. 2---Friday, Oct. 6: *Genesis* chapters 1-22
+* Monday, Oct. 2---Friday, Oct. 6: *Genesis* chapters 1-22
 
-**Discussion w/ Robert Alter (supplemental recording)**
+> **Discussion w/ Robert Alter (supplemental recording)**
 
-Monday, Oct 9---Friday, Oct. 13: Confucius, *Analects*
+* Monday, Oct 9---Friday, Oct. 13: Confucius, *Analects*
 
-(Fall Break Oct. 14-17, Sat-Tues)
+* (Fall Break Oct. 14-17, Sat-Tues)
 
-**10/18-20---First Draft of Essay #2**
+> **10/18-20---First Draft of Essay #2**
 
-Wednesday, Oct. 18---Tuesday, Oct. 24: Matthew 5-7 and Luke 10 ("Sermon
+* Wednesday, Oct. 18---Tuesday, Oct. 24: Matthew 5-7 and Luke 10 ("Sermon
 on the Mount" and "The Good Samaritan")
 
-**Oct. 24: On October 24, in Olin Auditorium, at 7:30 P.M., Rabbi David Wolpe is visiting Ursinus to give a talk entitled, “Get Over Yourself: Self-Transcendence in the Book of Genesis.” It will focus on how biblical characters, particularly in Genesis, grow beyond their limitations.**
+> **Oct. 24: On October 24, in Olin Auditorium, at 7:30 P.M., Rabbi David Wolpe is visiting Ursinus to give a talk entitled, “Get Over Yourself: Self-Transcendence in the Book of Genesis.” It will focus on how biblical characters, particularly in Genesis, grow beyond their limitations.**
 
-Wednesday, Oct. 25---Tues, Nov. 7: Darwin and Roughgarden
+* Wednesday, Oct. 25---Tues, Nov. 7: Darwin and Roughgarden
 
-Wed, Nov. 8---Tues., Nov. 14: Deloria, *God is Red* (one week)
+* Wed, Nov. 8---Tues., Nov. 14: Deloria, *God is Red* (one week)
 
-Wed, Nov. 15---Friday, Dec. 1: Coates, *Between the World and Me*
+* Wed, Nov. 15---Friday, Dec. 1: Coates, *Between the World and Me*
 
-**Common Event: *Persepolis*** **on Wednesday, November 15**
+> **Common Event: *Persepolis*** **on Wednesday, November 15**
+> **In His Own Words: Ta-Nehisi Coates (supplemental recording)**
 
-**In His Own Words: Ta-Nehisi Coates (supplemental recording)**
-
-Thanksgiving Break Nov. 22-24
+* Thanksgiving Break Nov. 22-24
 
 **12/01-12/05---First Draft of Essay #3**
 
-Mon, Dec. 4---Friday, Dec. 8: **select your quest**
+* Mon, Dec. 4---Friday, Dec. 8: **select your quest**
 
 ### Common Events 
 
 -   CIE Common Events are **mandatory** for all CIE
     students.
-
 -   If CIE faculty are not able to attend an event, they may ask for
     help in taking attendance at the event to ensure that their students
     are in attendance.
-
 -   Some events have multiple presentation times. Closer to the events,
     CIE faculty will be asked for preferences as to which times work
     best for their classes.
-
 -   We encourage CIE faculty to incorporate the content of the CIE
     Common Events into the classroom (for instance: short written
     assignment, classroom discussions, etc.)
-
 -   Confirmation of location sites is still being worked out. Specific
     details about each event will be sent to all CIE students and
     faculty prior to the event.
