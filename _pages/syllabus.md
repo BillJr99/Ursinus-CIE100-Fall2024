@@ -463,7 +463,7 @@ university:
   
 ---
 
-## The Common Intellectual Experience (CIE 100)
+## The Common Intellectual Experience (CIE 100) \[[^1]\]
 
 The Common Intellectual Experience is a two-semester course for all
 first year students that brings academic inquiry to bear on the central
@@ -667,14 +667,19 @@ Basic Books, 1968. (from Book VII. 514a-521d).
 
 ### **Assessment** 
 
-[Writing]{.underline} (60%) [Participation]{.underline} (40%)
+#### Writing (60%) 
 
-Paper 1 -- 20% (1200 -- 1500 words) In-class participation -- 30%
+Paper 1 -- 20% (1200 -- 1500 words)  
 
-Paper 2 -- 20% (1200 -- 1500 words) Informal writing
-(pre-class/in-class) -- 10%
+Paper 2 -- 20% (1200 -- 1500 words)  
 
 Paper 3 -- 20% (1500 -- 1800 words)
+
+#### Participation (40%)
+
+In-class participation -- 30%  
+
+Informal writing (pre-class/in-class) -- 10%
 
 ### **Weekly Reading and Paper Assignment Schedule**
 
@@ -724,11 +729,11 @@ Thanksgiving Break Nov. 22-24
 
 **12/01-12/05---First Draft of Essay #3**
 
-Mon, Dec. 4---Friday, Dec. 8: **[select your quest]{.underline}**
+Mon, Dec. 4---Friday, Dec. 8: **select your quest**
 
-### **Common Events **
+### Common Events 
 
--   CIE Common Events are **[mandatory]{.underline}** for all CIE
+-   CIE Common Events are **mandatory** for all CIE
     students.
 
 -   If CIE faculty are not able to attend an event, they may ask for
@@ -747,11 +752,11 @@ Mon, Dec. 4---Friday, Dec. 8: **[select your quest]{.underline}**
     details about each event will be sent to all CIE students and
     faculty prior to the event.
 
-[FALL 2023 CIE COMMON EVENTS SCHEDULE ]{.underline}
+#### FALL 2023 CIE COMMON EVENTS SCHEDULE
 
 **Friday, August 25-- FILM SCREENING: The Matrix**
 
-**Wednesday, September 6 -- Community Drawing Project **
+**Wednesday, September 6 -- Community Drawing Project**
 
 > 5-8 pm, Location TBD
 >
@@ -765,12 +770,11 @@ Mon, Dec. 4---Friday, Dec. 8: **[select your quest]{.underline}**
 
 > Time and location TBD
 
-**[Supplemental Recordings]{.underline}**
+**Supplemental Recordings**
 
-*Links to the following will be made available[ ]{.underline}to you
-through email when applicable*:
+*Links to the following will be made available to you through email when applicable*:
 
-**Discussion / Robert Alter, Genesis translator **
+**Discussion / Robert Alter, Genesis translator**
 
 Stream online anytime between Monday, Oct 2 and Friday, Oct. 6 
 
@@ -783,7 +787,7 @@ CIE. This was followed by a Q&A from faculty, staff, and students. We
 recorded this unique event and will make it available to students this
 semester as they read Alter's work for class. 
 
-**In His Own Words: Ta-Nehisi Coates **
+**In His Own Words: Ta-Nehisi Coates**
 
 Stream online anytime between Wednesday, November 15 and Friday, Dec 1 
 
