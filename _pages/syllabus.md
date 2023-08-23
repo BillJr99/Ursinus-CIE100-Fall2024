@@ -188,7 +188,7 @@ schedule:
     date: "1"
     title: "Allegory of the Cave, Feminist Manifesto, the Matrix, and Katie Merz's Live the Questions (The Smokestack)"
     deliverables:
-      - dtitle: "Paper: Essay 1 Handed Out"
+      - dtitle: "Writing: Essay 1 Handed Out"
         dlink: "Assignments/Essay1"
         points: 100
         rubricpath: "_pages/Assignments/asmt-essay1.md"
@@ -226,7 +226,7 @@ schedule:
     date: "1"
     title: "Lysistrata"
     deliverables:
-      - dtitle: "Paper: First Draft of Essay 1 Due"
+      - dtitle: "Writing: First Draft of Essay 1 Due"
         dlink: "Assignments/Essay1"
         points: 30
         rubricpath: "_pages/Assignments/asmt-essay1.md"
@@ -276,11 +276,11 @@ schedule:
     date: "1"
     title: "Genesis"
     deliverables:
-      - dtitle: "Paper: Essay 1 Due"
+      - dtitle: "Writing: Essay 1 Due"
         dlink: "Assignments/Essay1"
         points: 70
         rubricpath: "_pages/Assignments/asmt-essay1.md"
-      - dtitle: "Paper: Essay 2 Handed Out"
+      - dtitle: "Writing: Essay 2 Handed Out"
         dlink: "Assignments/Essay2"
         points: 100
         rubricpath: "_pages/Assignments/asmt-essay2.md"
@@ -299,7 +299,7 @@ schedule:
     title: "Matthew 5-7 and Luke 10"
     link: "Activities/Biblical"
     deliverables:
-      - dtitle: "Paper: First Draft of Essay 2"
+      - dtitle: "Writing: First Draft of Essay 2"
         dlink: "Assignments/Essay2"
         points: 30
         rubricpath: "_pages/Assignments/asmt-essay2.md"
@@ -356,11 +356,11 @@ schedule:
     title: "God is Red"
     link: "Activities/GodIsRed"
     deliverables:
-      - dtitle: "Paper: Essay 2 Due"
+      - dtitle: "Writing: Essay 2 Due"
         dlink: "Assignments/Essay2"
         points: 70
         rubricpath: "_pages/Assignments/asmt-essay2.md"
-      - dtitle: "Paper: Essay 3 Handed Out"
+      - dtitle: "Writing: Essay 3 Handed Out"
         dlink: "Assignments/Essay3"
         points: 100
         rubricpath: "_pages/Assignments/asmt-essay3.md"
@@ -403,7 +403,7 @@ schedule:
     title: "Select Your Quest: Coded Bias"
     link: "Activities/CodedBias"
     deliverables:
-      - dtitle: "Paper: First Draft of Essay 3"
+      - dtitle: "Writing: First Draft of Essay 3"
         dlink: "Assignments/Essay3"
         points: 30
         rubricpath: "_pages/Assignments/asmt-essay3.md"
@@ -416,7 +416,7 @@ schedule:
     date: "1"
     title: "Select Your Quest: Coded Bias"
     deliverables:
-      - dtitle: "Paper: Essay 3"
+      - dtitle: "Writing: Essay 3"
         dlink: "Assignments/Essay3"
         points: 70
         rubricpath: "_pages/Assignments/asmt-essay3.md"
