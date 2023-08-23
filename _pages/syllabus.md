@@ -53,15 +53,15 @@ info:
     <div style="width: 100%; display: table; border-collapse:separate; border-spacing:5px;">
     <div style="width: 100%; display: table-row;">
         <div style="display: table-cell; padding:5px; width:33%;">
-            <a title="either de:Siegmund Labisch (1863–1942) or Paul Wittkowsky (1892–1949)[1], Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Szenebild_aus_Lysistrata_von_Aristophanes_Max_Reinhardt_1920.jpg"><img width="512" alt="Szenebild aus Lysistrata von Aristophanes Max Reinhardt 1920" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Szenebild_aus_Lysistrata_von_Aristophanes_Max_Reinhardt_1920.jpg/512px-Szenebild_aus_Lysistrata_von_Aristophanes_Max_Reinhardt_1920.jpg"></a>
+            <a title="either de:Siegmund Labisch (1863–1942) or Paul Wittkowsky (1892–1949)[1], Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Szenebild_aus_Lysistrata_von_Aristophanes_Max_Reinhardt_1920.jpg"><img width="100%" alt="Szenebild aus Lysistrata von Aristophanes Max Reinhardt 1920" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Szenebild_aus_Lysistrata_von_Aristophanes_Max_Reinhardt_1920.jpg/512px-Szenebild_aus_Lysistrata_von_Aristophanes_Max_Reinhardt_1920.jpg"></a>
         </div>
         <div style="display: table-cell; padding:5px; width:33%;">
             <a title="Jan Saenredam
-    , Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Platon_Cave_Sanraedam_1604.jpg"><img width="512" alt="Platon Cave Sanraedam 1604" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Platon_Cave_Sanraedam_1604.jpg/512px-Platon_Cave_Sanraedam_1604.jpg"></a>
+    , Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Platon_Cave_Sanraedam_1604.jpg"><img width="100%" alt="Platon Cave Sanraedam 1604" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Platon_Cave_Sanraedam_1604.jpg/512px-Platon_Cave_Sanraedam_1604.jpg"></a>
         </div>
         <div style="display: table-cell; padding:5px; width:33%;">
             <a title="School of Rembrandt
-    , Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Rembrandt_-_The_Good_Samaritan_-_Louvre.jpg"><img width="512" alt="Rembrandt - The Good Samaritan - Louvre" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Rembrandt_-_The_Good_Samaritan_-_Louvre.jpg"></a>
+    , Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Rembrandt_-_The_Good_Samaritan_-_Louvre.jpg"><img width="100%" alt="Rembrandt - The Good Samaritan - Louvre" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Rembrandt_-_The_Good_Samaritan_-_Louvre.jpg"></a>
         </div>
     </div>
     </div>
