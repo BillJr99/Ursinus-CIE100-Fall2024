@@ -82,7 +82,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51004
 DTSTAMP:20230831T000000Z
 DTSTART;VALUE=DATE:20230831
-SUMMARY:CIE100 Common Intellectual Experience: Paper: Essay 1 Handed Out
+SUMMARY:CIE100 Common Intellectual Experience: Writing: Essay 1 Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -102,7 +102,7 @@ DTSTAMP:20230831T000000Z
 DTSTART;VALUE=DATE:20230831
 SUMMARY:CIE100 Common Intellectual Experience: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Bear Tracks: Adding Content to your Bear Tracks Page https://www.ursinus.edu/live/files/3499-how-to-add-content-to-bear-tracks-pages\nDeliverable: Paper: Essay 1 Handed Out https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay1\nDeliverable: Participation: Ice Breaker Reflection Due https://www.billmongan.com/Ursinus-CIE100-Fall2023/Participation/IceBreaker
+DESCRIPTION:\nReading: Bear Tracks: Adding Content to your Bear Tracks Page https://www.ursinus.edu/live/files/3499-how-to-add-content-to-bear-tracks-pages\nDeliverable: Writing: Essay 1 Handed Out https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay1\nDeliverable: Participation: Ice Breaker Reflection Due https://www.billmongan.com/Ursinus-CIE100-Fall2023/Participation/IceBreaker
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -154,7 +154,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a5100c
 DTSTAMP:20230914T000000Z
 DTSTART;VALUE=DATE:20230914
-SUMMARY:CIE100 Common Intellectual Experience: Paper: First Draft of Essay 1 Due
+SUMMARY:CIE100 Common Intellectual Experience: Writing: First Draft of Essay 1 Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -174,7 +174,7 @@ DTSTAMP:20230914T000000Z
 DTSTART;VALUE=DATE:20230914
 SUMMARY:CIE100 Common Intellectual Experience: Class Meeting
 LOCATION:
-DESCRIPTION:\nDeliverable: Paper: First Draft of Essay 1 Due https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay1\nDeliverable: Participation: Writing Fellow Meeting Reflection 1 Handed Out https://www.billmongan.com/Ursinus-CIE100-Fall2023/Participation/WritingFellowReflection
+DESCRIPTION:\nDeliverable: Writing: First Draft of Essay 1 Due https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay1\nDeliverable: Participation: Writing Fellow Meeting Reflection 1 Handed Out https://www.billmongan.com/Ursinus-CIE100-Fall2023/Participation/WritingFellowReflection
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -244,7 +244,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51016
 DTSTAMP:20231005T000000Z
 DTSTART;VALUE=DATE:20231005
-SUMMARY:CIE100 Common Intellectual Experience: Paper: Essay 1 Due
+SUMMARY:CIE100 Common Intellectual Experience: Writing: Essay 1 Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -253,7 +253,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51017
 DTSTAMP:20231005T000000Z
 DTSTART;VALUE=DATE:20231005
-SUMMARY:CIE100 Common Intellectual Experience: Paper: Essay 2 Handed Out
+SUMMARY:CIE100 Common Intellectual Experience: Writing: Essay 2 Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -264,7 +264,7 @@ DTSTAMP:20231005T000000Z
 DTSTART;VALUE=DATE:20231005
 SUMMARY:CIE100 Common Intellectual Experience: Class Meeting
 LOCATION:
-DESCRIPTION:\nDeliverable: Paper: Essay 1 Due https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay1\nDeliverable: Paper: Essay 2 Handed Out https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay2
+DESCRIPTION:\nDeliverable: Writing: Essay 1 Due https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay1\nDeliverable: Writing: Essay 2 Handed Out https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay2
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -289,7 +289,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a5101b
 DTSTAMP:20231019T000000Z
 DTSTART;VALUE=DATE:20231019
-SUMMARY:CIE100 Common Intellectual Experience: Paper: First Draft of Essay 2
+SUMMARY:CIE100 Common Intellectual Experience: Writing: First Draft of Essay 2
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -309,7 +309,7 @@ DTSTAMP:20231019T000000Z
 DTSTART;VALUE=DATE:20231019
 SUMMARY:CIE100 Common Intellectual Experience: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CIE100-Fall2023/Activities/Biblical\nReading: Matthew 5-7 (Sermon on the Mount)\nReading: Luke 10 (The Good Samaritan)\nDeliverable: Paper: First Draft of Essay 2 https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay2\nDeliverable: Participation: Writing Fellow Meeting Reflection 2 Handed Out https://www.billmongan.com/Ursinus-CIE100-Fall2023/Participation/WritingFellowReflection
+DESCRIPTION:https://www.billmongan.com/Ursinus-CIE100-Fall2023/Activities/Biblical\nReading: Matthew 5-7 (Sermon on the Mount)\nReading: Luke 10 (The Good Samaritan)\nDeliverable: Writing: First Draft of Essay 2 https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay2\nDeliverable: Participation: Writing Fellow Meeting Reflection 2 Handed Out https://www.billmongan.com/Ursinus-CIE100-Fall2023/Participation/WritingFellowReflection
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -388,7 +388,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51026
 DTSTAMP:20231109T000000Z
 DTSTART;VALUE=DATE:20231109
-SUMMARY:CIE100 Common Intellectual Experience: Paper: Essay 2 Due
+SUMMARY:CIE100 Common Intellectual Experience: Writing: Essay 2 Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -397,7 +397,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51027
 DTSTAMP:20231109T000000Z
 DTSTART;VALUE=DATE:20231109
-SUMMARY:CIE100 Common Intellectual Experience: Paper: Essay 3 Handed Out
+SUMMARY:CIE100 Common Intellectual Experience: Writing: Essay 3 Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -408,7 +408,7 @@ DTSTAMP:20231109T000000Z
 DTSTART;VALUE=DATE:20231109
 SUMMARY:CIE100 Common Intellectual Experience: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CIE100-Fall2023/Activities/GodIsRed\nReading: God is Red\nDeliverable: Paper: Essay 2 Due https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay2\nDeliverable: Paper: Essay 3 Handed Out https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay3
+DESCRIPTION:https://www.billmongan.com/Ursinus-CIE100-Fall2023/Activities/GodIsRed\nReading: God is Red\nDeliverable: Writing: Essay 2 Due https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay2\nDeliverable: Writing: Essay 3 Handed Out https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay3
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -478,7 +478,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51030
 DTSTAMP:20231205T000000Z
 DTSTART;VALUE=DATE:20231205
-SUMMARY:CIE100 Common Intellectual Experience: Paper: First Draft of Essay 3
+SUMMARY:CIE100 Common Intellectual Experience: Writing: First Draft of Essay 3
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -489,14 +489,14 @@ DTSTAMP:20231205T000000Z
 DTSTART;VALUE=DATE:20231205
 SUMMARY:CIE100 Common Intellectual Experience: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CIE100-Fall2023/Activities/CodedBias\nReading: Coded Bias\nReading: Are We Automating Racism? https://www.youtube.com/watch?v=Ok5sKLXqynQ&list=PLJ8cMiYb3G5cOFj1VQf8ykNOI0ptuHybc&index=4\nDeliverable: Paper: First Draft of Essay 3 https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay3
+DESCRIPTION:https://www.billmongan.com/Ursinus-CIE100-Fall2023/Activities/CodedBias\nReading: Coded Bias\nReading: Are We Automating Racism? https://www.youtube.com/watch?v=Ok5sKLXqynQ&list=PLJ8cMiYb3G5cOFj1VQf8ykNOI0ptuHybc&index=4\nDeliverable: Writing: First Draft of Essay 3 https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay3
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51032
 DTSTAMP:20231207T000000Z
 DTSTART;VALUE=DATE:20231207
-SUMMARY:CIE100 Common Intellectual Experience: Paper: Essay 3
+SUMMARY:CIE100 Common Intellectual Experience: Writing: Essay 3
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -507,7 +507,7 @@ DTSTAMP:20231207T000000Z
 DTSTART;VALUE=DATE:20231207
 SUMMARY:CIE100 Common Intellectual Experience: Class Meeting
 LOCATION:
-DESCRIPTION:\nDeliverable: Paper: Essay 3 https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay3
+DESCRIPTION:\nDeliverable: Writing: Essay 3 https://www.billmongan.com/Ursinus-CIE100-Fall2023/Assignments/Essay3
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
