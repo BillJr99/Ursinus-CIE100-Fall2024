@@ -192,12 +192,19 @@ schedule:
         dlink: "Assignments/Essay1"
         points: 100
         rubricpath: "_pages/Assignments/asmt-essay1.md"
+      - dtitle: "Participation: Ice Breaker Reflection Due"
+        dlink: "Participation/IceBreaker"
+        points: 10
     readings:
       - rtitle: "Bear Tracks: Adding Content to your Bear Tracks Page"
         rlink: "https://www.ursinus.edu/live/files/3499-how-to-add-content-to-bear-tracks-pages"
   - week: "1"
     date: "0"
     title: "Allegory of the Cave, Feminist Manifesto, the Matrix, and Katie Merz's Live the Questions (The Smokestack)"
+    deliverables:
+      - dtitle: "Participation: Pre-Assessment Handed Out"
+        dlink: "Participation/PreAssessment"
+        points: 10
     readings:
       - rtitle: "Common Event: Community Drawing Project (9/6)"
         rlink: false
@@ -205,8 +212,8 @@ schedule:
     date: "1"
     title: "Allegory of the Cave, Feminist Manifesto, the Matrix, and Katie Merz's Live the Questions (The Smokestack)"
     deliverables:
-      - dtitle: "Participation: Ice Breaker Reflection Due"
-        dlink: "Participation/IceBreaker"
+      - dtitle: "Participation: Thesis Statement and Introduction for Essay 1 Due"
+        dlink: false
         points: 10
   - week: "2"
     date: "0"
@@ -226,7 +233,7 @@ schedule:
       - dtitle: "Participation: Writing Fellow Meeting Reflection 1 Handed Out"
         dlink: "Participation/WritingFellowReflection"
         points: 10
-        rubricpath: "_pages/Participation/WritingFellowReflection"
+        rubricpath: "_pages/Participation/participation-writingfellowreflection.md"
   - week: "3"
     date: "0"
     title: "Sappho"
@@ -237,6 +244,10 @@ schedule:
   - week: "3"
     date: "1"
     title: "Sappho"
+    deliverables:
+      - dtitle: "Participation: Pre-Assessment Due"
+        dlink: "Participation/PreAssessment"
+        points: 10
   - week: "4"
     date: "0"
     title: "Euthyphro"
@@ -251,7 +262,7 @@ schedule:
       - dtitle: "Participation: Writing Fellow Meeting Reflection 1 Due"
         dlink: "Participation/WritingFellowReflection"
         points: 10
-        rubricpath: "_pages/Participation/WritingFellowReflection"
+        rubricpath: "_pages/Participation/participation-writingfellowreflection.md"
   - week: "5"
     date: "0"
     title: "Genesis"
@@ -295,7 +306,7 @@ schedule:
       - dtitle: "Participation: Writing Fellow Meeting Reflection 2 Handed Out"
         dlink: "Participation/WritingFellowReflection"
         points: 10
-        rubricpath: "_pages/Participation/WritingFellowReflection"
+        rubricpath: "_pages/Participation/participation-writingfellowreflection.md"
     readings:
       - rtitle: "Matthew 5-7 (Sermon on the Mount)"
         rlink: false
@@ -311,6 +322,10 @@ schedule:
     date: "1"
     title: "Darwin and Roughgarden"
     link: "Activities/Darwin"
+    deliverables:
+      - dtitle: "Participation: Thesis Statement and Introduction for Essay 2 Due"
+        dlink: false
+        points: 10
     readings:
       - rtitle: "On the Origin of Species"
         rlink: false
@@ -325,16 +340,17 @@ schedule:
       - dtitle: "Participation: Writing Fellow Meeting Reflection 2 Due"
         dlink: "Participation/WritingFellowReflection"
         points: 10
-        rubricpath: "_pages/Participation/WritingFellowReflection"
+        rubricpath: "_pages/Participation/participation-writingfellowreflection.md"
     readings:
       - rtitle: "Evolution's Rainbow"
         rlink: false
   - week: "10"
     date: "0"
     title: "Darwin and Roughgarden"
-    readings:
-      - rtitle: "Common Event: Presepolis (11/15)"
-        rlink: false
+    deliverables:
+      - dtitle: "Participation: Self-Assessment Handed Out"
+        dlink: "Participation/SelfAssessment"
+        points: 10
   - week: "10"
     date: "1"
     title: "God is Red"
@@ -358,6 +374,9 @@ schedule:
       - dtitle: "Participation: Coded Bias Reflection Handed Out"
         dlink: "Participation/CodedBias"
         points: 10
+    readings:
+      - rtitle: "Common Event: Presepolis (11/15)"
+        rlink: false
   - week: "12"
     date: "0"
     title: "Between the World and Me"
@@ -365,6 +384,10 @@ schedule:
   - week: "13"
     date: "0"
     title: "Between the World and Me"
+    deliverables:
+      - dtitle: "Participation: Self-Assessment Due"
+        dlink: "Participation/SelfAssessment"
+        points: 10
   - week: "13"
     date: "1"
     title: "Between the World and Me"
@@ -374,16 +397,21 @@ schedule:
         points: 10
     readings:
       - rtitle: "In His Own Words: Ta-Nehisi Coates (supplemental recording)"
-        rlink: false        
+        rlink: false
   - week: "14"
     date: "0"
     title: "Select Your Quest: Coded Bias"
-    link: "Activities/CodedBias"    
+    link: "Activities/CodedBias"
     deliverables:
       - dtitle: "Paper: First Draft of Essay 3"
         dlink: "Assignments/Essay3"
         points: 30
         rubricpath: "_pages/Assignments/asmt-essay3.md"
+    readings:
+      - rtitle: "Coded Bias"
+        rlink: false
+      - rtitle: "Are We Automating Racism?"
+        rlink: "https://www.youtube.com/watch?v=Ok5sKLXqynQ&list=PLJ8cMiYb3G5cOFj1VQf8ykNOI0ptuHybc&index=4"
   - week: "14"
     date: "1"
     title: "Select Your Quest: Coded Bias"
@@ -392,11 +420,6 @@ schedule:
         dlink: "Assignments/Essay3"
         points: 70
         rubricpath: "_pages/Assignments/asmt-essay3.md"
-    readings:
-      - rtitle: "Coded Bias"
-        rlink: false
-      - rtitle: "Are We Automating Racism?"
-        rlink: "https://www.youtube.com/watch?v=Ok5sKLXqynQ&list=PLJ8cMiYb3G5cOFj1VQf8ykNOI0ptuHybc&index=4"
 
 university:
   semester: "Fall"
