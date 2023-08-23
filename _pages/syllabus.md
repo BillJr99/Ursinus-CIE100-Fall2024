@@ -49,6 +49,22 @@ info:
   flexible_submission_policy: "In the absence of <a href=\"#accommodations\">accommodations</a> arranged in advance with the instructor or college, all assignments are due at 10:59PM Eastern Time on the date(s) stated on the schedule.  Assignments will be accepted without prior permission following this time with a points deduction of 4% per day if submitted before 10:59 PM Eastern Time on the day submitted.  Each student will receive a total of 10 &quot;slack days&quot; for the semester with which to waive these grade reductions; for example, one assignment may be submitted 10 days late, or two assignments may be submitted 5 days late, with no grade reduction.  Should an exemption to this policy be requested and granted, a 5% per day reduction will be applied.  Extra credit will not be awarded for assignments submitted under the flexible submission policy.  Students with accommodations will receive additional &quot;slack days&quot; as specified within the accommodations letter; however, some deliverables cannot be subject to accommodations due to the time-sensitive nature of the assignment (for example, group assignments, presentations, and course surveys).  Students who add the class late shall receive additional slack days equal to the number of days between the start of classes and the first date that approval is given or that class is attended (whichever occurs first).  Under no circumstances (including accommodations) can late work be accepted after the final class meeting, nor during final exams week, nor after the exam." 
   late_penalty_per_period: 4
   late_penalty_period: "day"
+  banner: |
+    <div style="width: 100%; display: table; border-collapse:separate; border-spacing:5px;">
+    <div style="width: 100%; display: table-row;">
+        <div style="display: table-cell; padding:5px; width:33%;">
+            <a title="either de:Siegmund Labisch (1863–1942) or Paul Wittkowsky (1892–1949)[1], Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Szenebild_aus_Lysistrata_von_Aristophanes_Max_Reinhardt_1920.jpg"><img width="512" alt="Szenebild aus Lysistrata von Aristophanes Max Reinhardt 1920" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Szenebild_aus_Lysistrata_von_Aristophanes_Max_Reinhardt_1920.jpg/512px-Szenebild_aus_Lysistrata_von_Aristophanes_Max_Reinhardt_1920.jpg"></a>
+        </div>
+        <div style="display: table-cell; padding:5px; width:33%;">
+            <a title="Jan Saenredam
+    , Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Platon_Cave_Sanraedam_1604.jpg"><img width="512" alt="Platon Cave Sanraedam 1604" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Platon_Cave_Sanraedam_1604.jpg/512px-Platon_Cave_Sanraedam_1604.jpg"></a>
+        </div>
+        <div style="display: table-cell; padding:5px; width:33%;">
+            <a title="School of Rembrandt
+    , Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Rembrandt_-_The_Good_Samaritan_-_Louvre.jpg"><img width="512" alt="Rembrandt - The Good Samaritan - Louvre" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Rembrandt_-_The_Good_Samaritan_-_Louvre.jpg"></a>
+        </div>
+    </div>
+    </div>
     
 instructors:
 - name: William Mongan
