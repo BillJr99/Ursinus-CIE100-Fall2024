@@ -305,7 +305,7 @@ schedule:
     deliverables:
       - dtitle: "Participation: Thesis Statement and Outline for Essay 2 Due"
         dlink: false
-        points:
+        points: 10
     readings:
       - rtitle: "Center for Writing and Speaking: Strategies and Templates for Building a Strong Thesis Statement"
         rlink: "https://www.ursinus.edu/live/files/4036-strategies-and-templates-for-building-a-strong"
