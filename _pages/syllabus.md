@@ -222,6 +222,8 @@ schedule:
     readings:
       - rtitle: "Common Event: Community Drawing Project (9/6)"
         rlink: false
+      - rtitle: "Katie Merz - Live the Questions (Smokestack)"
+        rlink: "https://www.ursinus.edu/live/profiles/5345-katie-merz-live-the-questions/_ingredients/templates/berman-2018/exhibition"
   - week: "1"
     date: "1"
     title: "Allegory of the Cave, Feminist Manifesto, the Matrix, and Katie Merz's Live the Questions (The Smokestack)"
