@@ -140,12 +140,12 @@ textbooks:
   authors: "Joan Roughgarden"
   isrequired: true 
   
-objectives:
-- objective: "Students will develop habits of self-reflection about what matters to them."
-- objective: "Students will become active participants in a campus intellectual community."
-- objective: "Students will become better critical readers of texts from a wide range of disciplines, cultures and time periods."
-- objective: "Students will become more skilled participants in group discussions."
-- objective: "Students will become better writers."
+goals:
+- goal: "Students will develop habits of self-reflection about what matters to them."
+- goal: "Students will become active participants in a campus intellectual community."
+- goal: "Students will become better critical readers of texts from a wide range of disciplines, cultures and time periods."
+- goal: "Students will become more skilled participants in group discussions."
+- goal: "Students will become better writers."
 
 grade_breakdown:
 - category: "Writing"
