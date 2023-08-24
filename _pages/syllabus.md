@@ -572,7 +572,7 @@ using this link <https://dsingley.youcanbook.me/>; by emailing her at
 can also review accessibility and disabilities services online at
 <https://ursinus.edu/offices/disability-and-access/>.
 
-### **Learning goals**
+### **Demonstration of Learning Goals**
 
 1.  Students will develop habits of self-reflection about what matters
     to them. *They will demonstrate this by*:
