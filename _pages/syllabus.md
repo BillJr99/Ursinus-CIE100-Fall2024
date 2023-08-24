@@ -240,6 +240,10 @@ schedule:
   - week: "2"
     date: "0"
     title: "Lysistrata"
+    deliverables:
+      - dtitle: "Participation: Introduction and Text Summary for Essay 1 Due"
+        dlink: false
+        points: 10
     readings:
       - rtitle: "Lysistrata"
         rlink: false
@@ -353,6 +357,10 @@ schedule:
   - week: "8"
     date: "1"
     title: "Darwin and Roughgarden"
+    deliverables:
+      - dtitle: "Participation: Analysis Section for Essay 2 Due"
+        dlink: false
+        points: 10
     readings:
       - rtitle: "On the Origin of Species"
         rlink: false
@@ -395,10 +403,6 @@ schedule:
   - week: "11"
     date: "0"
     title: "God is Red"
-    deliverables:
-      - dtitle: "Participation: Coded Bias Reflection Handed Out"
-        dlink: "Participation/CodedBias"
-        points: 10
     readings:
       - rtitle: "Common Event: Presepolis (11/15)"
         rlink: false
@@ -420,20 +424,16 @@ schedule:
     date: "1"
     title: "Between the World and Me"
     deliverables:
-      - dtitle: "Participation: Coded Bias Reflection Due"
-        dlink: "Participation/CodedBias"
-        points: 10
+      - dtitle: "Writing: First Draft of Essay 3"
+        dlink: "Assignments/Essay3"
+        points: 30
+        rubricpath: "_pages/Assignments/asmt-essay3.md"
     readings:
       - rtitle: "In His Own Words: Ta-Nehisi Coates (supplemental recording)"
         rlink: false
   - week: "14"
     date: "0"
     title: "Select Your Quest: Coded Bias"
-    deliverables:
-      - dtitle: "Writing: First Draft of Essay 3"
-        dlink: "Assignments/Essay3"
-        points: 30
-        rubricpath: "_pages/Assignments/asmt-essay3.md"
     readings:
       - rtitle: "Coded Bias"
         rlink: false
