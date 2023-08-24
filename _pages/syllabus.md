@@ -130,10 +130,7 @@ textbooks:
 - title: "Euthyphro (Four Texts on Socrates)"
   authors: "Plato and Aristophanes (Thomas G. West and Grace Starry West, translators)"
   isrequired: true 
-- title: "Luke 10"
-  authors: "Bible - KJV"
-  isrequired: true 
-- title: "Matthew 5-7"
+- title: "Luke 10 and Matthew 5-7"
   authors: "Bible - KJV"
   isrequired: true 
 - title: "Sappho: A New Translation"
