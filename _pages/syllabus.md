@@ -805,7 +805,7 @@ on the Mount" and "The Good Samaritan")
 **In His Own Words: Ta-Nehisi Coates**
 
 > Stream online anytime between Wednesday, November 15 and Friday, Dec 1 
-
+> 
 > "In His Own Words: Ta-Nehisi Coates" will include sections of Coates'
 > video interviews and speeches, in addition to readings of his work. The
 > goal is to give you a fuller sense of Coates' writing history, his
