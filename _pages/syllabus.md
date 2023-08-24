@@ -702,7 +702,7 @@ Subsequent absences will result in a grade reduction of 30% (per the class parti
 * In-class participation -- 30%  
 * Informal writing (pre-class/in-class) -- 10%
 
-### **Weekly Reading and Paper Assignment Schedule**
+### **Approximate Weekly Reading and Paper Assignment Schedule (see the formal schedule with exact dates above)**
 
 * Friday, August 25---Friday, Sept 08.: "Allegory of the Cave," Adichie,
 *Feminist Manifesto*, *The Matrix* and Katie Merz's *Live the Questions*
@@ -785,32 +785,32 @@ on the Mount" and "The Good Samaritan")
 
 > Time and location TBD
 
-**Supplemental Recordings**
+#### SUPPLEMENTAL RECORDINGS
 
 *Links to the following will be made available to you through email when applicable*:
 
 **Discussion / Robert Alter, Genesis translator**
 
-Stream online anytime between Monday, Oct 2 and Friday, Oct. 6 
-
-In 2021, Ursinus hosted Robert Alter, translator of Genesis, to speak
-with us about his work. This virtual salon, titled "Bible Remix: A
-Return to the Beginning (Genesis)," was an open discussion that engaged
-the themes and texts of both semesters of the CIE. Dr. Alter gave a
-brief talk positioning Genesis in relation to the overarching themes of
-CIE. This was followed by a Q&A from faculty, staff, and students. We
-recorded this unique event and will make it available to students this
-semester as they read Alter's work for class. 
+> Stream online anytime between Monday, Oct 2 and Friday, Oct. 6 
+> 
+> In 2021, Ursinus hosted Robert Alter, translator of Genesis, to speak
+> with us about his work. This virtual salon, titled "Bible Remix: A
+> Return to the Beginning (Genesis)," was an open discussion that engaged
+> the themes and texts of both semesters of the CIE. Dr. Alter gave a
+> brief talk positioning Genesis in relation to the overarching themes of
+> CIE. This was followed by a Q&A from faculty, staff, and students. We
+> recorded this unique event and will make it available to students this
+> semester as they read Alter's work for class. 
 
 **In His Own Words: Ta-Nehisi Coates**
 
-Stream online anytime between Wednesday, November 15 and Friday, Dec 1 
+> Stream online anytime between Wednesday, November 15 and Friday, Dec 1 
 
-"In His Own Words: Ta-Nehisi Coates" will include sections of Coates'
-video interviews and speeches, in addition to readings of his work. The
-goal is to give you a fuller sense of Coates' writing history, his
-motivation and intent for writing, and his thoughts on *Between the
-World and Me*. The recording will provide more context about the author
-of *Between the World and Me* as you are reading his work. 
+> "In His Own Words: Ta-Nehisi Coates" will include sections of Coates'
+> video interviews and speeches, in addition to readings of his work. The
+> goal is to give you a fuller sense of Coates' writing history, his
+> motivation and intent for writing, and his thoughts on *Between the
+> World and Me*. The recording will provide more context about the author
+> of *Between the World and Me* as you are reading his work. 
 
 [^1]: This introduction is adapted from the common CIE 100 course syllabus as of the time of this writing.
