@@ -741,7 +741,7 @@ on the Mount" and "The Good Samaritan")
 
 * Wed, Nov. 15---Friday, Dec. 1: Coates, *Between the World and Me*
 
-> **Common Event: *Persepolis*** **on Wednesday, November 15**
+> **Common Event: *Persepolis*** **on Wednesday, November 15**  
 > **In His Own Words: Ta-Nehisi Coates (supplemental recording)**
 
 * Thanksgiving Break Nov. 22-24
