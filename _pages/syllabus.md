@@ -722,6 +722,8 @@ Subsequent absences will result in a grade reduction of 30% (per the class parti
 * Monday, Sept.18---Friday, Sept. 22: Sappho (poems 1--2, 4--5, 8--9,
 12--15, 17, 20--21, 37--84, 87--88, 97--100)
 
+> **Common Event: Difficult Discussions Workshop, Sep. 20**
+
 * Monday, Sept. 25---Friday, Sep. 29: Plato, *Euthyphro*
 
 * Monday, Oct. 2---Friday, Oct. 6: *Genesis* chapters 1-22
