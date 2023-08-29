@@ -266,7 +266,7 @@ schedule:
         rlink: false
       - rtitle: "Center for Writing and Speaking: Using Sources Peer Review Exercise"
         rlink: "https://www.ursinus.edu/live/files/4027-peer-review-sheet-spotlight-on-using-sources-008"
-      - rtitle: "Common Event - Difficult Discussions Workshop (9/20)"
+      - rtitle: "Common Event: Difficult Discussions Workshop (9/20)"
 	    rlink: false
   - week: "3"
     date: "1"
@@ -786,6 +786,8 @@ on the Mount" and "The Good Samaritan")
 > drawing/installation that reflects a common theme derived from "Live
 > the Questions" specifically for the class of 2027 and their CIE
 > faculty.
+
+**Common Event: Difficult Discussions Workshop, Sep. 20**
 
 **Wednesday, November 15 -- FILM SCREENING: Persepolis**
 
