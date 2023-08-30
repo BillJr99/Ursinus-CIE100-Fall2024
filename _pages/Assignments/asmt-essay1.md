@@ -76,9 +76,9 @@ The following are the topic prompts from which you may choose for this essay:
 
 ### Imagery for Effect
 
-How did the *Allegory of the Cave* and *The Matrix* use manipulated images of reality or illusion as a metaphor for power dynamics and human struggle?  In what ways are they similar, and in what ways do their messages connect through edification and illumination of the human experience, and/or through pacification?  In what ways do they differ?  
+Both the *Allegory of the Cave* and *The Matrix* use manipulated images of reality or illusion as a metaphor for power dynamics and human struggle.  Discuss in what ways they used this device for similar effect, and in what ways their underlying messages connect through edification and illumination of the human experience, and/or through pacification.  Discuss the divergence in their use of distorted reality.  
 
-**Our task:** Consider the ways in which the authors use the same literary devices and metaphors to tell the same type of story, or do they have diverging morals?  How do they use imagery to better connect the reader to their morals?
+**Our task:** Consider the ways in which the authors use the same literary devices and metaphors to tell the same type of story, or do they have diverging morals.  How do they use imagery to better connect the reader to their morals?
 
 ### Gender Caves (From the CIE Working Group)
 
@@ -120,7 +120,7 @@ To be successful at this, we need first to read and re-read the text we’re wor
 
 **Or** , introduce a problem encountered by individuals or society that your text offers a solution to/perspective on. **1-2 sentences.**
 
-1. Introduce your text and suggest how it responds to what "they" say and/or sheds light on the above problem. This should include **1-3 sentences** that introduce(s) the text _as it relates to what they say about the issue/ problem._
+1. Introduce your text and suggest how it responds to what "they" say and/or sheds light on the above problem. This should include **1-3 sentences** that introduce(s) the text *as it relates to what they say about the issue/ problem.*
 
 2. Thesis statement—what is the main claim or line of inquiry of your essay? How will you use your text to shed light on the problem introduced above? Why should the reader care about this? **1-2 sentences.**
 
@@ -150,17 +150,17 @@ Example: In addition to Z, Adichie also asserts that we must consider Q.
 
 ### **Conclusion**
 
-1. Restate the main thrust of your examination_._
+1. Restate the main thrust of your examination.
 
 1. Explain its importance—why should we care? What does your argument imply about other, related questions?
 
 1. Optional: Acknowledge any shortcomings with your argument, and/or suggest a further question or topic that you have thought of as a result of your work.
 
-Example: Through a close analysis of Adichie's _Dear Ijeawele,_ we have seen that your very understandable impulse to hold a party celebrating the sex of your baby may ultimately have problematic consequences for your baby's life. Admittedly, one might argue that I am blowing this out of proportion, and maybe I am. Afterall, at time point, we are going ot know the sex of this baby, so it might make no difference whether that happens at 20 weeks or at 40 weeks. Perhaps we might conclude that you cannot have the party. Rather, as Adichie shows us, we can address these problems by ….
+Example: Through a close analysis of Adichie's Dear Ijeawele, we have seen that your very understandable impulse to hold a party celebrating the sex of your baby may ultimately have problematic consequences for your baby's life. Admittedly, one might argue that I am blowing this out of proportion, and maybe I am. Afterall, at time point, we are going ot know the sex of this baby, so it might make no difference whether that happens at 20 weeks or at 40 weeks. Perhaps we might conclude that you cannot have the party. Rather, as Adichie shows us, we can address these problems by ….
 
-_ **This is a basic structure. It is meant to be a helpful guideline, not a hard and fast rule. If you are familiar with writing papers like this, then you may well have moved beyond this template.** _
+**This is a basic structure. It is meant to be a helpful guideline, not a hard and fast rule. If you are familiar with writing papers like this, then you may well have moved beyond this template.** 
 
-_ **I encourage you to exercise your skills to the very best of your ability.** _
+**I encourage you to exercise your skills to the very best of your ability.** 
 
 ## About starting your paper:
 
@@ -186,4 +186,4 @@ Whichever option you choose, the following requirements need to be meet:
 
 [^1]: Essay prompts and instructions were adapted from assignments by Stephanie Mackler from the Education Department and Talia Argondezzi, the Director of the Writing and Speaking Program.
 
-[^2]: This concept of writing as taken place in a "They Say/I Say" format is taken directly from the following source: Birkenstein, Cathy and Gerald Graff. _They Say/ I Say: the moves that matter in academic writing, 4__th_ _edition._ New York: W. W. Norton Co, 2018.
+[^2]: This concept of writing as taken place in a "They Say/I Say" format is taken directly from the following source: Birkenstein, Cathy and Gerald Graff. They Say/I Say: the moves that matter in academic writing, 4th edition. New York: W. W. Norton Co, 2018.

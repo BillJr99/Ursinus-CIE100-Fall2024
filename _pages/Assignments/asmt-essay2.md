@@ -110,7 +110,7 @@ Our writing will be assessed based on how well we meet these goals.
 Whichever option you choose, the following requirements need to be meet:
 
 - The essay should be 1200-1500 words
-- **Essay must include quotes from at least two of our CIE text**. One text must be from selected from _Lysistrata_, _Sappho_, _Euthyphro_, _Genesis_ or _Analects_. The second text can be another from that list, or any of the previous texts we have covered in the course to date.
+- **Essay must include quotes from at least two of our CIE text**. One text must be from selected from Lysistrata, Sappho, Euthyphro, Genesis or Analects. The second text can be another from that list, or any of the previous texts we have covered in the course to date.
 - The essay must be typed, double-spaced, in 12-point font
 - Do not include a cover page.
 - Include your name on the document
